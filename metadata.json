@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini QuotaOS",
+  "description": "A Tesla-inspired dashboard for monitoring Gemini API model latency, health, and reference quotas. Features real-time latency tracking and visual rate limit gauges.",
+  "requestFramePermissions": []
+}
